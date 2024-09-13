@@ -11,7 +11,7 @@ class Solution:
 
 instance = Solution()
 
-print(instance.hasDuplicate([1, 2, 3, 4, 5, 6, 7, 8, 1, 10])) # False
+print(instance.hasDuplicate([1, 2, 3, 4, 5, 6, 7, 8, 1, 10])) # True
 
             
 
